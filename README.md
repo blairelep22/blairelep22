@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-My name is Blaire Lepore. I am currently a senior studying computer science at Belmont University. <br>I have already completed courses in data structures and algorithms, computer organization, architecture, and engineering, along with various programming classes.<br>I am looking to improve my skills for future employment  
+Hello! My name is Blaire and I am currently a senior studying computer science at Belmont University. <br>I have already completed courses in data structures and algorithms, computer organization, architecture, and engineering, along with various programming classes.<br>I am looking to improve my skills for future employment  
 
 
 ## 🌐 Socials:
